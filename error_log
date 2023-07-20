@@ -1,0 +1,2 @@
+[20-Jul-2023 18:37:27 UTC] PHP Notice:  Undefined variable: query in /home/zgk29jy57r32/public_html/students/2022-2023/web1/dev_229/index.php on line 72
+[20-Jul-2023 18:37:27 UTC] PHP Warning:  mysqli_query(): Empty query in /home/zgk29jy57r32/public_html/students/2022-2023/web1/dev_229/index.php on line 72
